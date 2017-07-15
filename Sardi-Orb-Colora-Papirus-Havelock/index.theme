@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Sardi Orb Luv
-Comment=Simple and flat icon theme with long shadow
-Inherits=Sardi-Orb,Sardi,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
+Name=Sardi Orb Papirus Havelock
+Comment=Simple and flat icon theme with long shadow 
+Inherits=Sardi-Orb-Colora,Sardi,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
 Example=folder
 
 
@@ -29,8 +29,10 @@ Directories=scalable/places
 
 
 [scalable/places]
-Size=512
+Size=48
 Context=Places
 Type=Scalable
 MinSize=16
 MaxSize=512
+
+
